@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "a649110b191a3fb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "8201a45cc0bb2e41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c501c68bc6bb86cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5326a2c98feb446",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anotações Java/1  - Fundamentos da Programação.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "763fff3a8991fd7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ed231f77f3e24da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53851937523367ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "029e05fc5a2c3bde",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2f77138d725657da",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "22c98fd743a9f116",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d06520afc1dbaaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35cfbb87eefae3c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Anotações Java/1  - Fundamentos da Programação.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0193c2b79e1d7b34",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Anotações Java/1  - Fundamentos da Programação.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e714df07458dcb5f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f0b2266074b4f16f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Anotações Java/1  - Fundamentos da Programação.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "53851937523367ea",
+  "lastOpenFiles": [
+    "Anotações Java/9 - Imutabilidade.md",
+    "Anotações Java/8 - Annotations.md",
+    "Anotações Java/7 - Herança.md",
+    "Anotações Java/6 - Arrays.md",
+    "Anotações Java/5 - Programação Orientada a Objeto.md",
+    "Anotações Java/4 - Loops.md",
+    "Anotações Java/3 - Controles de Fluxo.md",
+    "Anotações Java/2 - Operadores.md",
+    "Untitled.md",
+    "Anotações Java/1  - Fundamentos da Programação.md",
+    "Anotações Java/1  - Fundamentos da Programação.md"
+  ]
+}
